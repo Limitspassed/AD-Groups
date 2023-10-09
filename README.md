@@ -1,2 +1,2 @@
 # AD-Groups
-Check AD Groups using Powershell
+Useful powershell commands/scripts for managing Active Directory Groups.
