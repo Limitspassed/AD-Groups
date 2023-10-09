@@ -1,0 +1,1 @@
+Get-ADGroup -Filter * -SearchBase "OU=YourOU,DC=domain,DC=com" | Select-Object Name, DistinguishedName

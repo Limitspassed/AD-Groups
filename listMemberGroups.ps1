@@ -1,0 +1,1 @@
+Get-ADPrincipalGroupMembership -Identity "UserName" | Select-Object Name, DistinguishedName
